@@ -8,6 +8,8 @@ Tableau
 (https://public.tableau.com/app/profile/todd.sheppard/viz/MassShootingsCorrelationsUSA2023Jan-April/Dashboard1)
 Sources
 https://worldpopulationreview.com/state-rankings/gun-ownership-by-state
+2023 Mass Shootings
 https://www.gunviolencearchive.org/query/0484b316-f676-44bc-97ed-ecefeabae077/map![image](https://github.com/todd6400/2023-Mass-Shooting-Correlations/assets/129546048/1932cab6-4c1e-4c99-8957-46d9c53f713f)
+Poverty Rate
 https://worldpopulationreview.com/state-rankings/poverty-rate-by-state
 ![image](https://github.com/todd6400/2023-Mass-Shooting-Correlations/assets/129546048/bb64dd5e-914c-4a66-b352-f79b17e4cb5b)
